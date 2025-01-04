@@ -6,6 +6,5 @@ The company seeks to develop a model that assigns a lead score between 0 and 100
 
 **Repository Contents**  
 - A Python script with a fully commented model implementation  
-- A Word document addressing the company's subjective questions  
-- A presentation summarizing the analysis for the chief data scientist  
+- A Word document addressing the company's subjective questions   
 - A PDF report providing a concise summary of findings
